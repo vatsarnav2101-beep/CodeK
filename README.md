@@ -4,7 +4,6 @@ CodeK is a small coding-agent project inspired by the main idea behind OpenAI Co
 
 I built it as a student-sized version of a much larger coding agent. You give it a coding task, it makes a small plan, orders dependent steps, uses a few local tools, and saves the run so you can inspect what happened.
 
-The goal is not to reproduce Codex. The goal is to understand the useful ideas behind an agent that can work with a codebase.
 
 ## What it does
 
